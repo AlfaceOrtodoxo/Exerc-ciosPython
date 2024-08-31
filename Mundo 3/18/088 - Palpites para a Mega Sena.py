@@ -1,0 +1,2 @@
+# Faça um programa que ajude o jogador a criar palpites da mega sena. O programa deve perguntar quantos jogos serão gerados e sortear 6 números de 1 a 60
+# para cada jogo, cadastrando tudo em uma lista composta. 
