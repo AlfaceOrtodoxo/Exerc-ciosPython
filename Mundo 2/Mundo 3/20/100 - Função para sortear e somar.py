@@ -1,2 +1,0 @@
-# Faça um programa que tenha uma lista chamada números e duas funções chamadas 'sorteia()' e 'somaPar()'. A primeira função vai sortear 
-# cinco números e colocá-los na lista, e a segunda função vai somar todos os valores pares da função anterior.
