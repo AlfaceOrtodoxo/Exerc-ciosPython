@@ -1,0 +1,1 @@
+# Reescreva a função leiaInt() da 104 incluindo a possibilidade da digitação de um número inválido. Crie a leiaFloat() também.
